@@ -1,15 +1,16 @@
 ## Documentación de Errores
 
-# Título del Error: [Título del Error]
+# Título del Error: Precio Negativo en la Sección de Tarifas
 
 **Descripción del Error:**
-Descripción detallada del error, incluyendo cuándo y cómo ocurre, y cualquier información relevante para reproducirlo.
+En la sección de tarifas de la aplicación, actualmente se permite ingresar un precio negativo. Esto no es deseable ya que no tiene sentido tener precios negativos en este contexto.
 
 **Posible Solución:**
-Explicación de cómo abordar el error, incluyendo pasos específicos para corregirlo.
+Se recomienda modificar la lógica de entrada de datos en la sección de tarifas para permitir únicamente números positivos. Esto garantizará la coherencia y la precisión en los cálculos relacionados con tarifas y pagos.
 
 **Por qué ocurre:**
-Explicación de la causa raíz del error, si se conoce.
+La presencia de precios negativos puede causar confusiones y errores en los cálculos de tarifas y pagos dentro de la aplicación. Además, puede llevar a resultados inesperados y no representativos de la realidad.
 
 # Imagen de la Página Actual del Error:
-![Página Actual del Error](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+![image](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/125482171/437237fc-f39d-4651-805d-841a59616003)
+
