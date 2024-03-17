@@ -1,41 +1,25 @@
-# Website
+---
+slug: welcome
+title: Welcome
+authors: [slorber, yangshun]
+tags: [facebook, hello, docusaurus]
+---
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
-### Installation
+Simply add Markdown files (or folders) to the `blog` directory.
 
-```
-$ yarn
-```
+Regular blog authors can be added to `authors.yml`.
 
-### Local Development
+The blog post date can be extracted from filenames, such as:
 
-```
-$ yarn start
-```
+- `2019-05-30-welcome.md`
+- `2019-05-30-welcome/index.md`
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+A blog post folder can be convenient to co-locate blog post images:
 
-### Build
+![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
-```
-$ yarn build
-```
+The blog supports tags as well!
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
