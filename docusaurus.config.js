@@ -23,6 +23,7 @@ const config = {
   organizationName: 'santiagocabana', // Usually your GitHub org/user name.
   projectName: 'B01_Hotel.github.io', // Usually your repo name.
   deploymentBranch:'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
