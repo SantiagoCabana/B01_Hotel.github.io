@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://santiagocabana.github.io',
+  url: 'https://github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/B01_Hotel.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'santiagocabana', // Usually your GitHub org/user name.
+  organizationName: 'SantiagoCabana', // Usually your GitHub org/user name.
   projectName: 'B01_Hotel.github.io', // Usually your repo name.
   deploymentBranch:'gh-pages',
 
