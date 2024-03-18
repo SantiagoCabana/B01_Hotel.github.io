@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6375],{1783:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/B01_Hotel.github.io/blog/tags/hello","allTagsPath":"/B01_Hotel.github.io/blog/tags","count":2,"unlisted":false}')}}]);
