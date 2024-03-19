@@ -3,7 +3,7 @@
 # Título del Error: [Título del Error]
 
 **Descripción del Error:**
-Descripción detallada del error, incluyendo cuándo y cómo ocurre, y cualquier información relevante para reproducirlo.
+Descripción detallada del error, incluyendo cuándo y cómo ocurre, y cualquier información relevante para reproducirlo..
 
 **Posible Solución:**
 Explicación de cómo abordar el error, incluyendo pasos específicos para corregirlo.
