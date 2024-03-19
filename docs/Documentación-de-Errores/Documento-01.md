@@ -12,4 +12,4 @@ La solucion a la cual recomendamos es cambiar el nombre de las variables (pagado
 Ocurre posiblemente por la falta de formalizacion en el apartado hotel lo cual estamos mejorando poco a poco
 
 # Imagen de la Página Actual del Error:
-![alt text](image.png)S
+![Página Actual del Error](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
