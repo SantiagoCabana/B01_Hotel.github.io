@@ -1,15 +1,15 @@
 ## Documentación de Errores
 
-# Título del Error: [Título del Error]
+# Título del Error: Botones laterales están de manera innecesaria
 
 **Descripción del Error:**
-Descripción detallada del error, incluyendo cuándo y cómo ocurre, y cualquier información relevante para reproducirlo.
+Los botones laterales están de manera innecesaria puesto que se puede escribir los números directamente y además no pone números pares.
 
 **Posible Solución:**
-Explicación de cómo abordar el error, incluyendo pasos específicos para corregirlo.
+Se recomienda eliminar la funcion de desplazamiento numerico lo cual está demas y podria confundir al usuario.
 
 **Por qué ocurre:**
-Explicación de la causa raíz del error, si se conoce.
+El error es causado por la adicion del boton lateral (funcion de aumento y disminución numerica) de manera innecesaria.
 
 # Imagen de la Página Actual del Error:
-![Página Actual del Error](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+![Página Actual del Error](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/src/pages/image/image-2.png)
