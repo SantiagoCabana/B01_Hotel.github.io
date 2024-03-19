@@ -1,15 +1,15 @@
 ## Documentación de Errores
 
-# Título del Error: [Título del Error]
+# Título del Error: Escritura de letras en la opcion de pisos 
 
 **Descripción del Error:**
-Descripción detallada del error, incluyendo cuándo y cómo ocurre, y cualquier información relevante para reproducirlo.
+En la opción piso se observa que se puede poner letras lo cual es incongruente, solo se debe permitir poner número. 
 
 **Posible Solución:**
-Explicación de cómo abordar el error, incluyendo pasos específicos para corregirlo.
+La solución es cambiar la función del código para que ponga solo números.
 
 **Por qué ocurre:**
-Explicación de la causa raíz del error, si se conoce.
+Es un error simple ya que no se puso una restriccion de caracter numérico lo cual permitia poner tambien letras.
 
 # Imagen de la Página Actual del Error:
-![Página Actual del Error](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+![Página Actual del Error](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/src/pages/image/image-3.png)
