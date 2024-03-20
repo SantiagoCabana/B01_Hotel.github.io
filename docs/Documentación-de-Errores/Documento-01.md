@@ -1,15 +1,15 @@
 ## Documentación de Errores
 
-# Título del Error: [Título del Error]
+# Título del Error: Escritura muy simple en la sección pagos
 
 **Descripción del Error:**
-Descripción detallada del error, incluyendo cuándo y cómo ocurre, y cualquier información relevante para reproducirlo.
+Se observa que en la opción de pagos, en el apartado de recepción se ve muy simple y poco formal.
 
 **Posible Solución:**
-Explicación de cómo abordar el error, incluyendo pasos específicos para corregirlo.
+La solución a la cual recomendamos es cambiar el nombre de las variables (pagado y falta pagar) por (pagado y pendiente de pago) lo cual se ve mas formal y elegante.
 
 **Por qué ocurre:**
-Explicación de la causa raíz del error, si se conoce.
+Ocurre posiblemente por la falta de formalización en el apartado hotel lo cual estamos mejorando poco a poco
 
 # Imagen de la Página Actual del Error:
-![Página Actual del Error](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+![Página Actual del Error](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/src/pages/image/image.png)
