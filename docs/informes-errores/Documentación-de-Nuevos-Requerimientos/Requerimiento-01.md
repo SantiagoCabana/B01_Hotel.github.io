@@ -1,6 +1,6 @@
-## Documentación de Nuevos Requerimientos
 
-# Título del Requerimiento: : Añadir área de preguntas frecuentes para los usuarios (FAQ)
+
+# Añadir área de preguntas frecuentes para los usuarios (FAQ)
 
 **Descripción del Requerimiento:**
 Implementar un área de blog donde se resuelva las preguntas mas comunes sobre el hotel , sus funcionalidades, etc. 
