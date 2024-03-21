@@ -1,18 +1,17 @@
-## Documentación de Nuevos Requerimientos
 
-# Título del Requerimiento: [Título del Requerimiento]
+# Inicio de Sesión de Usuario
 
 **Descripción del Requerimiento:**
-Descripción detallada del nuevo requerimiento o característica deseada para el módulo de facturación del hotel.
+Implementar un sistema de inicio de sesión de usuario que permita a los huéspedes registrados acceder a su cuenta personal desde la página web del hotel. Los usuarios podrán iniciar sesión utilizando su ID  y contraseña.
 
 **Comparación con Otros Sistemas:**
-Mencionar características similares en otros sistemas de facturación de hoteles, con capturas de pantalla si es posible, y detallar cómo integrarían esa nueva característica o funcionalidad al módulo del hotel.
+Un ejemplo de un sistema que ofrece esta funcionalidad es el sistema de gestión hotelera (PMS) de Guestline, que incluye una función de pre-registro de huéspedes en línea. Los huéspedes reciben un correo electrónico antes de su llegada con un enlace a un formulario en línea donde pueden proporcionar los detalles necesarios para su registro.
 
 # Imagen de la Página Actual para Referencia:
-![Página Actual para Referencia](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+![Página Actual para Referencia]()
 
 # Imagen de Referencia para Mejorar:
-![Imagen de Referencia para Mejorar](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+![Imagen de Referencia para Mejorar]()
 
 **Beneficios y Consideraciones:**
-Detalles sobre los beneficios que esta nueva característica aportaría al sistema de facturación del hotel, así como cualquier consideración importante a tener en cuenta durante la implementación.
+El inicio de sesión de usuario ofrece una experiencia personalizada al permitir que los huéspedes accedan fácilmente a su historial de reservas, realicen cambios en sus datos personales y gestionen sus preferencias de comunicación. Además, facilita futuras reservas al recordar la información del usuario, lo que puede aumentar la fidelidad del cliente y simplificar el proceso de reserva.
