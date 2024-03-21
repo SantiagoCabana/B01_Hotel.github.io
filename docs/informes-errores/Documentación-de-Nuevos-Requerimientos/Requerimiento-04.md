@@ -1,18 +1,18 @@
-## Documentación de Nuevos Requerimientos
 
-# Título del Requerimiento: [Título del Requerimiento]
+# Testimonios de Clientes
 
 **Descripción del Requerimiento:**
-Descripción detallada del nuevo requerimiento o característica deseada para el módulo de facturación del hotel.
+Se busca implementar una sección de testimonios de clientes en el sitio web del hotel, donde los huéspedes puedan compartir sus experiencias y opiniones sobre su estancia.
 
 **Comparación con Otros Sistemas:**
-Mencionar características similares en otros sistemas de facturación de hoteles, con capturas de pantalla si es posible, y detallar cómo integrarían esa nueva característica o funcionalidad al módulo del hotel.
+Muchos sistemas de reservas de hoteles y plataformas de gestión hotelera ofrecen la opción de mostrar testimonios de clientes en sus sitios web. Un ejemplo de esto es el sistema de gestión de propiedades (PMS) de Cloudbeds, que permite a los hoteles recopilar y mostrar testimonios
 
 # Imagen de la Página Actual para Referencia:
-![Página Actual para Referencia](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+
 
 # Imagen de Referencia para Mejorar:
-![Imagen de Referencia para Mejorar](https://i.pinimg.com/564x/94/91/6b/94916b728d54d414348cfd46eae0c91d.jpg)
+
 
 **Beneficios y Consideraciones:**
-Detalles sobre los beneficios que esta nueva característica aportaría al sistema de facturación del hotel, así como cualquier consideración importante a tener en cuenta durante la implementación.
+Los testimonios de clientes auténticos pueden generar confianza en los usuarios potenciales y persuadirlos para que elijan el hotel, mejorando así la credibilidad del sitio web.
+
