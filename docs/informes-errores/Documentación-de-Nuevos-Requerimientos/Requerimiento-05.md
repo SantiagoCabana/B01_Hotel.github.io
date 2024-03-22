@@ -7,7 +7,7 @@
 En muchas paginas de hoteles ofrecen la seleccion de idiomas muy reducida (entre la lengua natal y el ingles), en nuestra pagina ofrecemos una variedad mas amplia de idiomas en los que los usuarios de mas partes del mundo se puedan sentir a gusto.
 
 # Imagen de Referencia para Mejorar:
-![8](https://raw.githubusercontent.com/SantiagoCabana/B01_Hotel.github.io/gh-pages/src/pages/image/imagen-4.jpg)
+![8](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/src/pages/image/imagen-4.jpg)
 
 
 **Beneficios y Consideraciones:**
