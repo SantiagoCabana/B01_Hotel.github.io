@@ -8,11 +8,11 @@ Se busca implementar una sección de testimonios de clientes en el sitio web del
 Muchos sistemas de reservas de hoteles y plataformas de gestión hotelera ofrecen la opción de mostrar testimonios de clientes en sus sitios web. Un ejemplo de esto es el sistema de gestión de propiedades (PMS) de Cloudbeds, que permite a los hoteles recopilar y mostrar testimonios
 
 # Imagen de la Página Actual para Referencia:
-![7](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/164255800/13eb13c0-d4eb-42ad-a435-228a6cd1d395)
+![7](./img/r4-1.png)
 
 
 # Imagen de Referencia para Mejorar:
-![8](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/164255800/31bfa2ed-d910-4af2-8dec-390337ccfce8)
+![8](./img/r4-2.png)
 
 
 **Beneficios y Consideraciones:**

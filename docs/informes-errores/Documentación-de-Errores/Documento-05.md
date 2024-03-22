@@ -9,5 +9,5 @@ Se recomienda restringir el uso de números en la descripción de categoría, pe
 La presencia de números en la descripción de categoría puede causar confusión y problemas de representación dentro de la aplicación. Además, puede llevar a resultados no esperados al realizar búsquedas o clasificaciones basadas en estas descripciones.
 
 # Imagen de la Página Actual del Error:
-![image](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/125482171/99c0f8be-eb16-4c29-bf3f-69f084138618)
+![image](./img/d5.png)
 

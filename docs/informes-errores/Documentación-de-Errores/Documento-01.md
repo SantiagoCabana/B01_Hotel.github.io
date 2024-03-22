@@ -12,4 +12,4 @@ La solución a la cual recomendamos es cambiar el nombre de las variables (pagad
 Ocurre posiblemente por la falta de formalización en el apartado hotel lo cual estamos mejorando poco a poco
 
 # Imagen de la Página Actual del Error:
-![Página Actual del Error](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/static/img/image.png)
+![Página Actual del Error](./img/d1.png)

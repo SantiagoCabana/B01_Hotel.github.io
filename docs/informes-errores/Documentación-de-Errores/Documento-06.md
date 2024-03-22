@@ -9,6 +9,6 @@ Se recomienda rediseñar el fondo de la recepción de manera que combine de form
 La falta de combinación entre el fondo de la recepción y los combo boxes puede afectar negativamente la experiencia de usuario, haciendo que la interfaz sea menos atractiva y coherente visualmente. Esto puede generar confusión y dificultar la identificación y uso de los combo boxes.
 
 # Imagen de la Página Actual del Error:
-![image](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/125482171/c1c938fd-a728-45fc-9fc6-84919fdab15d)
+![image](./img/d6.png)
 
 
