@@ -8,7 +8,7 @@ A comparacion de otros sitios web con una imagen estatica o direccion escrita de
 
 
 # Imagen de Referencia para Mejorar:
-![8](./img/r6-1.jpg)
+![imagen](./img/r6-1.jpg)
 
 
 **Beneficios y Consideraciones:**

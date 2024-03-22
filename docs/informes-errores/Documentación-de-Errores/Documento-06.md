@@ -9,6 +9,6 @@ Se recomienda rediseñar el fondo de la recepción de manera que combine de form
 La falta de combinación entre el fondo de la recepción y los combo boxes puede afectar negativamente la experiencia de usuario, haciendo que la interfaz sea menos atractiva y coherente visualmente. Esto puede generar confusión y dificultar la identificación y uso de los combo boxes.
 
 # Imagen de la Página Actual del Error:
-![image](./img/d6.png)
+![imagen](./img/d6.png)
 
 

@@ -8,10 +8,10 @@ Crear una galería de fotos interactiva en la página principal del sitio web de
 Sitios web de hoteles de renombre a menudo cuentan con galerías de fotos interactivas que ofrecen una vista completa de las instalaciones del hotel, lo que permite a los usuarios tener una idea más clara de lo que pueden esperar durante su estancia.
 
 # Imagen de la Página Actual para Referencia:
-![3](./img/r2-1.png)
+![imagen](./img/r2-1.png)
 
 # Imagen de Referencia para Mejorar:
-![4](./img/r2-2.png)
+![imagen](./img/r2-2.png)
 
 **Beneficios y Consideraciones:**
 Una galería de fotos interactiva puede mejorar la experiencia del usuario al proporcionar una vista visualmente atractiva y detallada del hotel, lo que puede influir positivamente en las decisiones de reserva.

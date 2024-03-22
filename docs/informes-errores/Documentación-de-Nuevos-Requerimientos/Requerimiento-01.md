@@ -9,11 +9,11 @@ Implementar un área de blog donde se resuelva las preguntas mas comunes sobre e
 Algunas plataformas de reserva, como Marriott Bonvoy o Hilton Honors, han incorporado asistentes virtuales en sus sitios web para facilitar la experiencia de reserva y atención al cliente.
 
 # Imagen de la Página Actual para Referencia:
-![1](./img/r1-1.png)
+![imagen](./img/r1-1.png)
 
 
 # Imagen de Referencia para Mejorar:
-![2](./img/r1-2.png)
+![imagen](./img/r1-2.png)
 
 
 **Beneficios y Consideraciones:**

@@ -7,7 +7,7 @@
 En muchas paginas de hoteles ofrecen la seleccion de idiomas muy reducida (entre la lengua natal y el ingles), en nuestra pagina ofrecemos una variedad mas amplia de idiomas en los que los usuarios de mas partes del mundo se puedan sentir a gusto.
 
 # Imagen de Referencia para Mejorar:
-![8](./img/r5-1.jpg)
+![imagen](./img/r5-1.jpg)
 
 
 **Beneficios y Consideraciones:**

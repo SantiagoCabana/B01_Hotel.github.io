@@ -9,5 +9,5 @@ Se recomienda modificar la lógica de entrada de datos en la sección de tarifas
 La presencia de precios negativos puede causar confusiones y errores en los cálculos de tarifas y pagos dentro de la aplicación. Además, puede llevar a resultados inesperados y no representativos de la realidad.
 
 # Imagen de la Página Actual del Error:
-![image](./img/d4.png)
+![imagen](./img/d4.png)
 
