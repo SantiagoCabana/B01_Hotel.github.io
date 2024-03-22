@@ -8,7 +8,7 @@ A comparacion de otros sitios web con una imagen estatica o direccion escrita de
 
 
 # Imagen de Referencia para Mejorar:
-![8](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/164255800/31bfa2ed-d910-4af2-8dec-390337ccfce8)
+![8](https://raw.githubusercontent.com/SantiagoCabana/B01_Hotel.github.io/gh-pages/src/pages/image/imagen-5.jpg)
 
 
 **Beneficios y Consideraciones:**
