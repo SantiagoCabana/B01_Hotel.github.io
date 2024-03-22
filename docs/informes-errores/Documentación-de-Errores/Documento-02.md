@@ -12,4 +12,4 @@ Se recomienda eliminar la funcion de desplazamiento numerico lo cual está demas
 El error es causado por la adicion del boton lateral (funcion de aumento y disminución numerica) de manera innecesaria.
 
 # Imagen de la Página Actual del Error:
-![Página Actual del Error](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/src/pages/image/image-2.png)
+![Página Actual del Error](https://github.com/SantiagoCabana/B01_Hotel.github.io/blob/gh-pages/static/img/image-2.png)
