@@ -1,6 +1,6 @@
 ## Documentación de Errores
 
-# Título del Error: Botones laterales están de manera innecesaria
+# Botones laterales están de manera innecesaria
 
 **Descripción del Error:**
 Los botones laterales están de manera innecesaria puesto que se puede escribir los números directamente y además no pone números pares.

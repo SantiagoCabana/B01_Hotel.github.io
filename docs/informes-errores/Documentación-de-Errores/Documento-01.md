@@ -1,6 +1,6 @@
 ## Documentación de Errores
 
-# Título del Error: Escritura muy simple en la sección pagos
+# Escritura muy simple en la sección pagos
 
 **Descripción del Error:**
 Se observa que en la opción de pagos, en el apartado de recepción se ve muy simple y poco formal.

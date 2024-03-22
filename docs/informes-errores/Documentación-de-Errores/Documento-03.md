@@ -1,6 +1,6 @@
 ## Documentación de Errores
 
-# Título del Error: Escritura de letras en la opcion de pisos 
+# Escritura de letras en la opcion de pisos 
 
 **Descripción del Error:**
 En la opción piso se observa que se puede poner letras lo cual es incongruente, solo se debe permitir poner número. 
