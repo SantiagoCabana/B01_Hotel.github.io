@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_01_hotel_github_io=self.webpackChunkb_01_hotel_github_io||[]).push([[4700],{1540:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/B01_Hotel.github.io/blog/tags/docusaurus","allTagsPath":"/B01_Hotel.github.io/blog/tags","count":4,"unlisted":false}')}}]);

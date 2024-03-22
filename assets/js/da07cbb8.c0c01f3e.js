@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkb_01_hotel_github_io=self.webpackChunkb_01_hotel_github_io||[]).push([[8968],{9094:e=>{e.exports=JSON.parse('{"permalink":"/B01_Hotel.github.io/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
