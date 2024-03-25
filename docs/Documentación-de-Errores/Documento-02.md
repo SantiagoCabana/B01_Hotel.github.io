@@ -1,5 +1,3 @@
-## Documentación de Errores
-
 # Botones laterales están de manera innecesaria
 
 **Descripción del Error:**

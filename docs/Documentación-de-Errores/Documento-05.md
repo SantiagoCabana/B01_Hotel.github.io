@@ -1,5 +1,3 @@
-## Documentación de Errores
-
 # Uso de Números en la Descripción de Categoría
 
 En la descripción de categoría de la aplicación, se permite ingresar números. Después de comparar con varios tipos de hoteles, se ha llegado a la conclusión de que solo se deben permitir letras en esta sección, ya que el uso de números no es adecuado.

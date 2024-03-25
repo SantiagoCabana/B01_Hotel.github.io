@@ -1,5 +1,3 @@
-## Documentación de Errores
-
 # Diseño de Fondo de Recepción No Combinable con Combo Boxes
 
 El diseño del fondo de la recepción en la aplicación es muy claro, lo cual no combina de manera estética con los combo boxes, ya que ambos elementos tienen el mismo color.

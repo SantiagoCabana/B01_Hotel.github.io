@@ -1,5 +1,3 @@
-## Documentación de Errores
-
 # Precio Negativo en la Sección de Tarifas
 
 En la sección de tarifas de la aplicación, actualmente se permite ingresar un precio negativo. Esto no es deseable ya que no tiene sentido tener precios negativos en este contexto.

@@ -1,5 +1,3 @@
-## Documentación de Errores
-
 # Escritura de letras en la opcion de pisos 
 
 **Descripción del Error:**

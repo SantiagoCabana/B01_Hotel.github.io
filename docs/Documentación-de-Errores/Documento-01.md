@@ -1,5 +1,3 @@
-## Documentación de Errores
-
 # Escritura muy simple en la sección pagos
 
 **Descripción del Error:**
