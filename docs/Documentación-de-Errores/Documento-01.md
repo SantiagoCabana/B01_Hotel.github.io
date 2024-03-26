@@ -9,8 +9,9 @@ La solución a la cual recomendamos es cambiar el nombre de las variables (pagad
 :::
 
 :::warning[Por qué ocurre]
-Ocurre posiblemente por la falta de formalización en el apartado hotel lo cual estamos mejorando poco a poco
+Ocurre posiblemente por la falta de formalización en el apartado hotel lo cual estamos mejorando poco a poco.
 :::
+
 
 # Imagen de la Página Actual del Error:
 ![Página Actual del Error](./img/d1.png)

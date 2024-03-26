@@ -12,6 +12,7 @@ Se recomienda restringir el uso de números en la descripción de categoría, pe
 La presencia de números en la descripción de categoría puede causar confusión y problemas de representación dentro de la aplicación. Además, puede llevar a resultados no esperados al realizar búsquedas o clasificaciones basadas en estas descripciones.
 :::
 
+
 # Imagen de la Página Actual del Error:
 ![imagen](./img/d5.png)
 

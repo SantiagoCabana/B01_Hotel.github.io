@@ -12,5 +12,6 @@ La solución es cambiar la función del código para que ponga solo números.
 Es un error simple ya que no se puso una restriccion de caracter numérico lo cual permitia poner tambien letras.
 :::
 
+
 # Imagen de la Página Actual del Error:
 ![Página Actual del Error](./img/d3.png)
