@@ -1,10 +1,10 @@
-# Mapa de Alrededores
+# Notificaciones de Reservas Pendientes
 
 **Descripción del Requerimiento:**
-Este mapa muestra alrededores del hotel con una atraccion cercana, restaurantes, transporte, centro comerciales, centros recreativos, centros medicos, entre otros.
+Consiste en desarrollar un sistema que envíe notificaciones automáticas al administrador del hotel cada vez que se realice una nueva reserva y esta requiera atención inmediata. La notificación alertará al administrador sobre la existencia de una reserva recién realizada que necesita ser revisada y confirmada dentro de un plazo específico para garantizar una gestión eficiente de las reservas del hotel.
 
 **Comparación con Otros Sistemas:**
-A comparacion de otros sitios web con una imagen estatica o direccion escrita de alrededores, nosotros propocionamos un mapa mas dinamico mejorando la experiencia del usuario.
+En comparación con otros sistemas de gestión de reservas que pueden no incluir notificaciones automáticas, esta característica proporciona al administrador una alerta inmediata sobre nuevas reservas pendientes de confirmación. Mientras que algunos sistemas pueden requerir que el administrador acceda manualmente a la plataforma para revisar las reservas, este sistema automatizado garantiza una respuesta rápida y oportuna a las reservas recién realizadas.
 
 
 # Imagen de Referencia para Mejorar:
@@ -12,4 +12,4 @@ A comparacion de otros sitios web con una imagen estatica o direccion escrita de
 
 
 **Beneficios y Consideraciones:**
-De esta manera al usuario le damos una informacion visual sobre el hotel y sus atracciones cercanas mejorando asi su experiencia.
+Permite al administrador tomar medidas rápidas para confirmar o cancelar reservas según sea necesario, lo que facilita una gestión más proactiva del inventario de habitaciones del hotel.
