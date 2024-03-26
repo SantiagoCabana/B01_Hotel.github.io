@@ -1,16 +1,17 @@
 # Escritura de letras en la opcion de pisos 
 
 :::danger[Descripción del Error]
-En la opción piso se observa que se puede poner letras lo cual es incongruente, solo se debe permitir poner número.
+El fondo del listado de habitaciones es muy claro, lo que puede causar errores por parte del usuario al visualizar y seleccionar las habitaciones.
 :::
 
 :::tip[Posible Solución]
-La solución es cambiar la función del código para que ponga solo números.
+Rediseñar el fondo del listado de habitaciones para que tenga un tono más oscuro o un contraste mayor, facilitando la visualización y selección de las habitaciones por parte del usuario.
 :::
 
 :::warning[Por qué ocurre]
-Es un error simple ya que no se puso una restriccion de caracter numérico lo cual permitia poner tambien letras.
+El motivo de rediseñar el fondo del listado de habitaciones radica en mejorar la experiencia del usuario al navegar y seleccionar habitaciones. Un fondo claro puede dificultar la legibilidad y la identificación de las habitaciones disponibles, lo que puede llevar a confusiones y errores por parte del usuario al elegir una habitación. Al utilizar un tono más oscuro o un contraste mayor, se mejora la claridad y la visibilidad del listado de habitaciones, proporcionando una experiencia más fluida y eficiente para los usuarios al realizar sus selecciones.
 :::
 
 
 # Imagen de la Página Actual del Error:
+![imagen](./img/d8.jpg)
