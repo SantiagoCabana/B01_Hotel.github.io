@@ -1,4 +1,4 @@
-# Escritura de letras en la opcion de pisos 
+# Mala organización de los elementos graficos y diseño en el listado de habitaciones 
 
 :::danger[Descripción del Error]
 El fondo del listado de habitaciones es muy claro, lo que puede causar errores por parte del usuario al visualizar y seleccionar las habitaciones.
