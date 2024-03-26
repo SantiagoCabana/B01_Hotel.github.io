@@ -1,4 +1,4 @@
-# EN LA DESCRIPCION DE LA SECCION DE LISTADO DE CATEGORIAS PERMITE AGREGAR Y GUARDAR CARACTERES ESPCIALES
+# La sección de listado de categorías permite agregar y guardar caracteres especiales.
 
 :::danger[Descripción del Error]
 En la sección de listado de categorías, se permite agregar y guardar caracteres especiales, lo cual es incorrecto y puede causar problemas en el sistema.
