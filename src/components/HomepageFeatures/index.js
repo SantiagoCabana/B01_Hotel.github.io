@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Funciones',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Desde el procesamiento de datos hasta la gestión de solicitudes y respuestas, 
+        examinamos cómo estas funciones trabajan juntas para mantener la funcionalidad y 
+        eficiencia del sistema.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Flujo',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Analizamos en detalle cómo se estructura 
+        y gestiona este flujo, identificando posibles puntos de mejora y optimización.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Logica',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Exploramos cómo se implementan algoritmos, 
+        validaciones de datos, autorizaciones de usuarios y otros procesos fundamentales 
+        para asegurar la coherencia y funcionalidad del sistema.
       </>
     ),
   },
