@@ -1,12 +1,18 @@
-# Diseño de Fondo de Recepción No Combinable con Combo Boxes
+# Fondo de Listado de Productos No Acorde con Botones de Acción
 
-El diseño del fondo de la recepción en la aplicación es muy claro, lo cual no combina de manera estética con los combo boxes, ya que ambos elementos tienen el mismo color.
+:::danger[Descripción del Error]
+El fondo del listado de productos en la página actual es demasiado claro, lo cual no se combina de manera adecuada con los botones de acción, ya que ambos elementos tienen el mismo tono de color.
+:::
 
-Se recomienda rediseñar el fondo de la recepción de manera que combine de forma armoniosa con los combo boxes. Esto puede lograrse modificando el color o la textura del fondo para crear un contraste visual adecuado con los elementos de la interfaz.
+:::tip[Posible Solución]
+Se recomienda rediseñar el fondo del listado de productos para que se integre de forma armoniosa con los botones de acción. Esto puede lograrse ajustando el color o la textura del fondo para crear un contraste visual adecuado con los elementos de la interfaz.
+:::
 
-La falta de combinación entre el fondo de la recepción y los combo boxes puede afectar negativamente la experiencia de usuario, haciendo que la interfaz sea menos atractiva y coherente visualmente. Esto puede generar confusión y dificultar la identificación y uso de los combo boxes.
+:::warning[Por qué ocurre]
+La falta de armonía entre el fondo del listado de productos y los botones de acción puede afectar negativamente la experiencia del usuario, dificultando la identificación y uso de los botones y generando una sensación de incoherencia visual en la página.
+:::
+
 
 # Imagen de la Página Actual del Error:
 ![imagen](./img/d6.png)
-
 
