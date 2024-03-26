@@ -1,5 +1,33 @@
 # Botones laterales están de manera innecesaria
+:::note
 
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::warning
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
 **Descripción del Error:**
 Los botones laterales están de manera innecesaria puesto que se puede escribir los números directamente y además no pone números pares.
 
