@@ -74,7 +74,7 @@ const config = {
             label: 'Documentacion Hotel',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/SantiagoCabana/B01_Hotel.github.io',
             label: 'GitHub',
             position: 'right',
           },
