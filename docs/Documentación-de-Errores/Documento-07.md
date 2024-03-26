@@ -1,5 +1,5 @@
 
-# Escritura de letras en la opcion de pisos 
+# Mala organización de los elementos graficos y diseño del formulario de Recepción
 
 :::danger[Descripción del Error]
 El fondo del formulario en la parte de recepción es demasiado claro, lo que puede causar errores por parte del usuario al interactuar con el formulario.
