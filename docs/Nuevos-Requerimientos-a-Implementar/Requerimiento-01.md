@@ -1,6 +1,6 @@
 
 
-# Añadir área de preguntas frecuentes para los usuarios 
+# Añadir área de preguntas frecuentes para los usuarios aea
 
 **Descripción del Requerimiento:**
 Implementar un área de blog donde se resuelva las preguntas mas comunes sobre el hotel , sus funcionalidades, etc. 
