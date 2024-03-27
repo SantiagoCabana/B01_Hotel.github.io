@@ -9,11 +9,13 @@ Implementar un área para la modificacion de la de hora entrada de registrar una
 Algunas plataformas de reserva, como Marriott Bonvoy o Hilton Honors, han incorporado registro de horarios de entrada para reservaciones.
 
 # Imagen de la Página Actual para Referencia:
-![imagen](./img/r1-1.png)
+![aea1](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/164255800/2f06eb99-36c0-4ae1-b547-73f8ccac3cf0)
+
 
 
 # Imagen de Referencia para Mejorar:
-![imagen](./img/r1-2.png)
+
+![aea 2](https://github.com/SantiagoCabana/B01_Hotel.github.io/assets/164255800/e5efb7ac-d673-403d-99fd-c008c8befd27)
 
 
 **Beneficios y Consideraciones:**
