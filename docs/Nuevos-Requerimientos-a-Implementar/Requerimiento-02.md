@@ -1,11 +1,10 @@
 
-# Galería de Fotos 
+# Modificación de la opción de habitacion en limpieza en el listado de habitaciones
 
 **Descripción del Requerimiento:**
-Crear una galería de fotos interactiva en la página principal del sitio web del hotel, que permita a los usuarios desplazarse horizontalmente a través de imágenes de las habitaciones, instalaciones y áreas comunes del hotel.
-
+Crear una alternativa de boton (tal como "mantenimiento") para poner el cuarto en estado limpieza 
 **Comparación con Otros Sistemas:**
-Sitios web de hoteles de renombre a menudo cuentan con galerías de fotos interactivas que ofrecen una vista completa de las instalaciones del hotel, lo que permite a los usuarios tener una idea más clara de lo que pueden esperar durante su estancia.
+Sitios web de hoteles de renombre a menudo cuentan los cuartos en estado de limpieza y lo que a su vez avisa a los empleados para comenzar a limpiar el cuarto.
 
 # Imagen de la Página Actual para Referencia:
 ![imagen](./img/r2-1.png)
@@ -14,4 +13,4 @@ Sitios web de hoteles de renombre a menudo cuentan con galerías de fotos intera
 ![imagen](./img/r2-2.png)
 
 **Beneficios y Consideraciones:**
-Una galería de fotos interactiva puede mejorar la experiencia del usuario al proporcionar una vista visualmente atractiva y detallada del hotel, lo que puede influir positivamente en las decisiones de reserva.
+Podria servir como aviso para los empleados de cuando deben comenzar a limpiar la habitación correspondiente, ademas evitaría confusiones con clientes.
