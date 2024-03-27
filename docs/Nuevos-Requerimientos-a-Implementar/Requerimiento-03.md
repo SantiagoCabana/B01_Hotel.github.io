@@ -7,7 +7,7 @@ Se propone la implementación de un sistema de gestión de estancias con el fin 
 A diferencia de otros sistemas convencionales de gestión de habitaciones, este sistema automatizado proporcionará alertas automáticas al personal de recepción cuando una estancia esté próxima a finalizar. Esto permitirá una comunicación proactiva con los clientes y una gestión más eficiente de las estancias.
 
 # Imagen de Referencia para Mejorar:
-![imagen](./img/r5-1.jpg)
+![imagen](./img/r3-1.jpg)
 
 
 **Beneficios y Consideraciones:**

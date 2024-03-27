@@ -8,7 +8,7 @@ En comparación con otros sistemas de gestión de reservas que pueden no incluir
 
 
 # Imagen de Referencia para Mejorar:
-![imagen](./img/r6-1.jpg)
+![imagen](./img/r4-1.jpg)
 
 
 **Beneficios y Consideraciones:**
