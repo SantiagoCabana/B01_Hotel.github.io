@@ -1,12 +1,12 @@
 
 
-# Añadir área de preguntas frecuentes para los usuarios aea
+# Modificacion de la fecha de registro de entrada para una reservación
 
 **Descripción del Requerimiento:**
-Implementar un área de blog donde se resuelva las preguntas mas comunes sobre el hotel , sus funcionalidades, etc. 
+Implementar un área para la modificacion de la de hora entrada de registrar una reservacion.
 
 **Comparación con Otros Sistemas:**
-Algunas plataformas de reserva, como Marriott Bonvoy o Hilton Honors, han incorporado asistentes virtuales en sus sitios web para facilitar la experiencia de reserva y atención al cliente.
+Algunas plataformas de reserva, como Marriott Bonvoy o Hilton Honors, han incorporado registro de horarios de entrada para reservaciones.
 
 # Imagen de la Página Actual para Referencia:
 ![imagen](./img/r1-1.png)
@@ -17,4 +17,4 @@ Algunas plataformas de reserva, como Marriott Bonvoy o Hilton Honors, han incorp
 
 
 **Beneficios y Consideraciones:**
-Un espacio de preguntas frecuentes evita confusiones a futuros clientes. Puede mejorar la confiabilidad de nuestra pagina y hoteles.
+Registrar la hora de entrada y salida de una reservacion evita confusiones entre clientes.
